@@ -4,8 +4,6 @@ import javafx.scene.control.ListCell;
 import javafx.scene.control.TextField;
 import org.openjfx.model.YMCategory;
 
-import javax.xml.soap.Text;
-
 
 public class CategoryCell extends ListCell<YMCategory> {
 
